@@ -50,7 +50,7 @@ Jupyter Notebook: For interactive data analysis and model building.
 
 e). Setup and Installation
 Clone the repository:
-git clone https://github.com/your-username/heart-disease-analysis.git
+git clone https://github.com/Ishu011/Advanced_heart_disease_prediction_model.git
 cd heart-disease-analysis
 Install dependencies:
 pip install -r requirements.txt
