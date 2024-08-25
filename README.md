@@ -1,8 +1,11 @@
 # Advanced_heart_disease_prediction_model
+
 a). Overview
 Heart disease is one of the leading causes of death worldwide. Early detection and prediction of heart disease can significantly improve patient outcomes. This project focuses on analyzing heart disease-related data to build a predictive model that can help in identifying individuals at risk of heart disease. The project involves several stages, including data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and the creation of visualizations to present the findings effectively.
+
 b). Project Structure
 The project repository is structured as follows:
+
 heart-disease-analysis/
 │
 ├── data/
@@ -67,6 +70,8 @@ i). License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license. See the LICENSE file for more details.
 
 j). Contact
+
 Email: ishupatel3426@gmail.com
+
 GitHub: https://github.com/Ishu011
 
