@@ -31,27 +31,44 @@ heart-disease-analysis/
 └── LICENSE                   
 
 c). Features
+
 Data Preprocessing: Handles missing values, outliers, and data normalization.
+
 Exploratory Data Analysis (EDA): In-depth analysis of the data to uncover patterns and relationships.
+
 Feature Engineering: Creation of new features to improve model accuracy.
+
 Machine Learning Model: A Random Forest Classifier trained to predict heart disease.
+
 Future Predictions: The model can be used to make predictions on new data.
+
 Visualization: Visual representations of data distributions, correlations, and prediction outcomes.
+
 Model Saving and Loading: Save the trained model for future use and load it to make predictions.
 
 d). Technologies Used
+
 Python: Core programming language used for data processing, analysis, and modeling.
+
 Pandas: Data manipulation and analysis.
+
 NumPy: Numerical computing.
+
 Scikit-Learn: Machine learning library for building and evaluating models.
+
 Matplotlib & Seaborn: Data visualization libraries for creating plots and charts.
+
 Tableau/Power BI: Tools for creating advanced dashboards and visualizations.
+
 Jupyter Notebook: For interactive data analysis and model building.
 
 e). Setup and Installation
+
 Clone the repository:
 git clone https://github.com/Ishu011/Advanced_heart_disease_prediction_model.git
+
 cd heart-disease-analysis
+
 Install dependencies:
 pip install -r requirements.txt
 
